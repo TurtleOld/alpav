@@ -1,0 +1,34 @@
+.header {
+    height: 25rem;
+}
+
+.img_profile {
+    position: absolute;
+    top: 5rem;
+    left: auto;
+    right: auto;
+    bottom: auto;
+    border: 2px solid #ddd;
+    border-radius: 3rem;
+    max-width: 300px;
+    max-height: 500px;
+}
+
+.title-name {
+    font-family: "Merriweather";
+    font-weight: 900;
+    font-style: italic;
+}
+
+.title-paragraph {
+    font-family: "Georgia";
+    font-weight: 900;
+    font-style: italic;
+}
+
+.description-text {
+    margin: 0 auto;
+    font-family: "Montserrat";
+    font-weight: 500;
+    font-style: normal;
+}
