@@ -28,7 +28,11 @@
 
 .description-text {
     margin: 0 auto;
-    font-family: "Montserrat";
+    font-family: "Georgia";
     font-weight: 500;
     font-style: normal;
+}
+
+.myskills {
+    font-family: "Georgia";
 }
